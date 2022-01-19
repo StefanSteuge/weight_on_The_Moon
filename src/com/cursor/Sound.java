@@ -10,8 +10,9 @@ public class Sound {
 
         System.out.println("This is first stroke\nThis is second stroke");
         System.out.println("1\t2\t3\n4\t5\t6");
-
-
+int x = 10;
+int y = ++x;
+        System.out.println(y);
 
     }
 }
