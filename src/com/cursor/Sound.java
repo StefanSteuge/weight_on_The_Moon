@@ -7,6 +7,12 @@ public class Sound {
         double distance = 330 * timeExo;
         System.out.println("Відстань від вас до скелі складає : " + distance + " метрів");
 
+
+        System.out.println("This is first stroke\nThis is second stroke");
+        System.out.println("1\t2\t3\n4\t5\t6");
+
+
+
     }
 }
   /*  Создайте новый файл Sound.java.
